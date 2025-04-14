@@ -1,0 +1,14 @@
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v3/api-docs
+
+spring:
+  application:
+    name: personaje-service
+  data:
+    mongodb:
+      database: personajesdb
+      host: localhost
+      port: 27017
