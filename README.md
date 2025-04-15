@@ -18,11 +18,6 @@
 - Preparado para entornos de desarrollo y despliegue con Docker.
 - Configuración desacoplada mediante `application.yml`.
 
-## 📁 Estructura del proyecto
-
-personaje-service/ ├── src/ │ ├── main/ │ │ ├── java/com/lucasdev/personajeservice/ │ │ │ ├── modelo/ │ │ │ ├── servicio/ │ │ │ ├── handler/ │ │ │ ├── router/ │ │ │ └── config/ │ └── resources/ │ └── application.yml ├── Dockerfile ├── docker-compose.yml └── pom.xml
-
-
 
 ## 🔌 Endpoints REST
 
